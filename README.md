@@ -1,17 +1,9 @@
-# 📈 Portfolio Optimization
+#  Portfolio Optimization
 
 > A professional end-to-end Quantitative Finance project implementing Modern Portfolio Theory, Portfolio Optimization, Risk Analytics, CAPM, Value at Risk using Python.
-
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Pandas](https://img.shields.io/badge/Pandas-2.x-green)
-![NumPy](https://img.shields.io/badge/NumPy-2.x-orange)
-![SciPy](https://img.shields.io/badge/SciPy-Optimization-red)
-![Plotly](https://img.shields.io/badge/Plotly-Dashboard-blueviolet)
-![License](https://img.shields.io/badge/License-MIT-success)
-
 ---
 
-# 📌 Overview
+#  Overview
 
 This project demonstrates the complete workflow of professional portfolio management used in investment banks, hedge funds, quantitative research firms, and asset management companies.
 
@@ -21,7 +13,7 @@ The project also implements portfolio performance evaluation, advanced risk anal
 
 ---
 
-# 🚀 Features
+#  Features
 
 ## Data Collection
 
@@ -73,13 +65,6 @@ Implemented using **SciPy Optimization**
 
 ---
 
-## CAPM
-
-- CAPM Alpha
-- CAPM Beta
-- Expected Return
-- Benchmark Comparison
-
 ---
 
 ## Risk Analytics
@@ -92,15 +77,6 @@ Implemented using **SciPy Optimization**
 
 ---
 
-## Volatility Forecasting
-
-- ARCH
-- GARCH(1,1)
-- Conditional Volatility
-- Volatility Forecast
-
----
-
 ## Stress Testing
 
 - COVID-19 Crash
@@ -110,15 +86,7 @@ Implemented using **SciPy Optimization**
 - Inflation Shock
 
 ---
-
-## Portfolio Backtesting
-
-- Monthly Rebalancing
-- Quarterly Rebalancing
-- Annual Rebalancing
-- Portfolio Growth
-- Benchmark Comparison
-
+]
 ---
 
 ## Dashboard
@@ -142,7 +110,7 @@ Includes
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```
 Quantitative-Portfolio-Optimization/
@@ -194,7 +162,7 @@ Quantitative-Portfolio-Optimization/
 
 ---
 
-# 📊 Mathematical Models Used
+# Mathematical Models Used
 
 ### Modern Portfolio Theory
 
@@ -217,38 +185,6 @@ Quantitative-Portfolio-Optimization/
 ### Asset Pricing
 
 - Capital Asset Pricing Model (CAPM)
-
----
-
-### Performance Metrics
-
-- Sharpe Ratio
-- Sortino Ratio
-- Treynor Ratio
-- Information Ratio
-- Calmar Ratio
-
----
-
-### Risk Models
-
-- Historical VaR
-- Parametric VaR
-- Monte Carlo VaR
-- Conditional VaR
-
----
-
-### Volatility Models
-
-- ARCH
-- GARCH(1,1)
-
----
-
-### Portfolio Theory
-
-- Black-Litterman Model
 
 ---
 
@@ -280,7 +216,7 @@ scikit-learn
 
 ---
 
-# 📈 Workflow
+#  Workflow
 
 ```
 Download Data
@@ -355,41 +291,7 @@ Dashboard
 
 ---
 
-# ⚙ Installation
-
-Clone repository
-
-```bash
-git clone https://github.com/yourusername/Quantitative-Portfolio-Optimization.git
-```
-
-Move inside repository
-
-```bash
-cd Quantitative-Portfolio-Optimization
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run Jupyter Notebook
-
-```bash
-jupyter lab
-```
-
-or
-
-```bash
-jupyter notebook
-```
-
----
-
-# ▶ Running the Project
+#  Running the Project
 
 Run notebooks in order
 
@@ -445,7 +347,7 @@ Run notebooks in order
 
 ---
 
-# 🎯 Applications
+#  Applications
 
 This project demonstrates techniques used in
 
@@ -460,7 +362,7 @@ This project demonstrates techniques used in
 
 ---
 
-# 🔮 Future Improvements
+#  Future Improvements
 
 - Multi-Factor Models
 - Reinforcement Learning Portfolio
